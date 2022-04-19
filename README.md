@@ -21,7 +21,7 @@
 
 ## About The Project
 
-This repository consists of the accumulations of projects created within AnthonyTran1's GitHub. Each project is labeled in their respective folders, with all their project and source files.
+This program creates a user interface that allows users to look up Pokemon sprites, typing and corresponding number by typing their name or number.
 
 ### Built With
 
